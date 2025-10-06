@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ameena! 
 
-<!--
-**CodeMasterX20/CodeMasterX20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 9 years old and I love coding! 
+I build tools, websites, mini-games, and fun projects in Python, C++, HTML, and more.
+I 1st started doing coding when I was 7 years old, mostly scratch! I only just now last year started
+trying out other programming languges!
 
-Here are some ideas to get you started:
+##  Skills
+- Python 
+- C++ 
+- HTML
+- CSS
+- Scratch
+- JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Password Generator (C++)
+- Math quizzes
+- Mini Games like Rock Paper Scissors
+
+## Contact Me
+You can see my gmail here: [ameenakondah@gmail.com](https://mail.google.com/mail/u/0/#inbox)
+my scratch is: [Misty0101](https://scratch.mit.edu/users/Misty0101/)
