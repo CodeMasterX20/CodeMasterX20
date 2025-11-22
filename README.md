@@ -1,6 +1,6 @@
 # Hi, I'm Ameena! 
 
-I'm 9 years old and I love coding! 
+I'm 14 years old and I love coding! 
 I build tools, websites, mini-games, and fun projects in Python, C++, HTML, and more.
 I 1st started doing coding when I was 7 years old, mostly scratch! I only just now last year started
 trying out other programming languges!
